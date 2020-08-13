@@ -1,8 +1,8 @@
 // Create Dimension Table
 let CreateDateTable = () as table =>
   let
-    StartDate = List.Min(Table.Column(Invoices,"OrderDate")),
-    EndDate = List.Max(Table.Column(Invoices,"OrderDate")),
+    StartDate = List.Min(Table.Column(TableName,"ColumnDateName")),
+    EndDate = List.Max(Table.Column(TableName,"ColumnDateName")),
     DayCount = Duration.Days(Duration.From(EndDate - StartDate)),
     Source = List.Dates(StartDate,DayCount,#duration(1,0,0,0)),
     TableFromList = Table.FromList(Source, Splitter.SplitByNothing()),
