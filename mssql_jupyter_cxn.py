@@ -15,3 +15,5 @@ cxn = pyodbc.connect(r'DRIVER={SQL Server Native Client 11.0};'
                      + cxn_str.format(**config))
 
 df = pd.read_sql('SELECT * FROM TABLE;', cxn)
+
+
