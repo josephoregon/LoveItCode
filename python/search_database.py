@@ -88,9 +88,9 @@ def search(database, table_column, search_word):
 
             '''
 
-    brq = pd.read_sql(sql, cxn1)
-    top = pd.read_sql(sql, cxn2)
-    krc = pd.read_sql(sql, cxn3)
+    db1 = pd.read_sql(sql, cxn1)
+    db2 = pd.read_sql(sql, cxn2)
+    db3 = pd.read_sql(sql, cxn3)
 
     if database == 'db1':
         if table_column == 't':
