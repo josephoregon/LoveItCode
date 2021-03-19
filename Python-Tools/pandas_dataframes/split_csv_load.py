@@ -2,14 +2,15 @@ import csv
 import os
 import sys
 
+
 def split_csv(source_filepath, dest_path, result_filename_prefix, row_limit):
     """
     Split a source CSV into multiple CSVs of equal numbers of records,
     except the last file.
-    
+
     The initial file's header row will be included as a header row in each split
     file.
-    
+
     Split files follow a zero-index sequential naming convention like so:
         `{result_filename_prefix}_0.csv`
     :param source_filepath {str}:

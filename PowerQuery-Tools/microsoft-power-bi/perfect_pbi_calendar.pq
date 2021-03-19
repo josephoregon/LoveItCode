@@ -1,3 +1,11 @@
+/*
+
+Author: Joseph Rosas, Data Scientist
+Date: June 21st, 2020
+Purpose: Create a hard-coded calendar in Microsoft Power BI
+
+*/
+
 let
   StartDate = BeginDate,
   EndDate = DateTime.Date(DateTime.FixedLocalNow()),

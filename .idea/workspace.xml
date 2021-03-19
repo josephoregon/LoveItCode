@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fda823fc-ed56-4abe-b9d1-8b8c1c0f6116" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/split_csv_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/whitespace_elimination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipynb/dask_library.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipynb/function_progress_bar.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipynb/iheartviz.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipynb/numpy_colors.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/tree_visual.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript-Tools/tree_visual.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powerquery/last_refresh.pq" beforeDir="false" afterPath="$PROJECT_DIR$/PowerQuery-Tools/microsoft-power-bi/last_refresh.pq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powerquery/perfect_pbi_calendar.pq" beforeDir="false" afterPath="$PROJECT_DIR$/PowerQuery-Tools/microsoft-power-bi/perfect_pbi_calendar.pq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#!/usr/bin/reorder_pandas_columns.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/AWS_S3_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/amazon_web_services/AWS_S3_Data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Pandas_Dataframe_Code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/fundamental_codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/data_cleanse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/data_cleanse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/dates_between_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/dates_between_dates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/feature_engineering.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/feature_engineering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/json_to_pandas_df.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/json_formatting_techniques/json_to_pandas_df.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mssql_jupyter_cxn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/microsoft_sql_server/mssql_jupyter_cxn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/reduce _df_memory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/reduce _df_memory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/reduce_dataframe_memory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/reduce_dataframe_memory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/search_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Tools/microsoft_sql_server/search_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/split_csv_large_csv_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/strip_whitespace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/list_all_primary_keys.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL-Tools/list_all_primary_keys.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/scripts.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL-Tools/scripts.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1px40J9mLm1nRrOdiz1wToCQ5y9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python-Tools/microsoft_sql_server" />
+      <recent name="$PROJECT_DIR$/Python-Tools/pandas_dataframes" />
+      <recent name="$PROJECT_DIR$/Python-Tools/json_formatting_techniques" />
+      <recent name="$PROJECT_DIR$/Python-Tools/amazon_web_services" />
+      <recent name="$PROJECT_DIR$/Python-Tools" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fda823fc-ed56-4abe-b9d1-8b8c1c0f6116" name="Default Changelist" comment="" />
+      <created>1616111182663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616111182663</updated>
+      <workItem from="1616111184727" duration="3000" />
+      <workItem from="1616111439888" duration="1738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
