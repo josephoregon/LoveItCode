@@ -54,7 +54,7 @@ df.percent = 0.001 * df.popu  # Data in 'percent' and 'popu' columns are autonat
 # Create unique ID for rows
 df['id'] = df.groupby(['y', 'x']).ngroup()
 
-# Add leading zeros to the integer column in Python
+# Add leading zeros to the integer column in python
 df['id'] = df['id'].apply(lambda x: '{0:0>5}'.format(x))
 
 # Search substrings for any string value in dataframe
