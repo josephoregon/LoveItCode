@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fda823fc-ed56-4abe-b9d1-8b8c1c0f6116" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notations_functions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data-tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-tools.iml" afterDir="false" />
+    <list default="true" id="fda823fc-ed56-4abe-b9d1-8b8c1c0f6116" name="Default Changelist" comment="Clean up repository by renaming folders and adding additional files.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript-Tools/tree_visual.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/tree_visual.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerQuery-Tools/last_refresh.pq" beforeDir="false" afterPath="$PROJECT_DIR$/powerquery/last_refresh.pq" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerQuery-Tools/perfect_pbi_calendar.pq" beforeDir="false" afterPath="$PROJECT_DIR$/powerquery/perfect_pbi_calendar.pq" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/amazon_web_services/AWS_S3_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/amazon/AWS_S3_Data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/function_notation.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/function_notation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/json_formatting_techniques/json_to_pandas_df.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/json/json_to_pandas_df.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/microsoft_sql_server/mssql_jupyter_cxn.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/sql/mssql_jupyter_cxn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/microsoft_sql_server/search_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/sql/search_database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/opencv/opencv_notations.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/opencv/opencv_notations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/data_cleanse.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pandas/data_cleanse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/dates_between_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pandas/dates_between_dates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/feature_engineering.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pandas/feature_engineering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/fundamental_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pandas/fundamental_codes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/split_csv_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pandas/split_csv_load.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/pandas_dataframes/whitespace_elimination.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pandas/whitespace_elimination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/reduce _df_memory.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pandas/reduce _df_memory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/reduce_dataframe_memory.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pandas/reduce_dataframe_memory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Tools/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL-Tools/list_all_primary_keys.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/list_all_primary_keys.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL-Tools/scripts.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/scripts.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +29,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python" />
       <recent name="$PROJECT_DIR$/Python-Tools/pandas" />
       <recent name="$PROJECT_DIR$/Python-Tools/microsoft_sql_server" />
       <recent name="$PROJECT_DIR$/Python-Tools/pandas_dataframes" />
       <recent name="$PROJECT_DIR$/Python-Tools/json_formatting_techniques" />
-      <recent name="$PROJECT_DIR$/Python-Tools/amazon_web_services" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -77,8 +61,16 @@
       <workItem from="1616111184727" duration="3000" />
       <workItem from="1616111439888" duration="1738000" />
       <workItem from="1618025997610" duration="41000" />
-      <workItem from="1618115968973" duration="607000" />
+      <workItem from="1618115968973" duration="1675000" />
     </task>
+    <task id="LOCAL-00001" summary="Clean up repository by renaming folders and adding additional files.">
+      <created>1618116642897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618116642897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +87,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clean up repository by renaming folders and adding additional files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean up repository by renaming folders and adding additional files." />
   </component>
 </project>
