@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fda823fc-ed56-4abe-b9d1-8b8c1c0f6116" name="Default Changelist" comment="Delete Tensorflow.py file." />
+    <list default="true" id="fda823fc-ed56-4abe-b9d1-8b8c1c0f6116" name="Default Changelist" comment="Delete Tensorflow.py file.">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +62,7 @@
       <workItem from="1616111439888" duration="1738000" />
       <workItem from="1618025997610" duration="41000" />
       <workItem from="1618115968973" duration="1820000" />
+      <workItem from="1618411039285" duration="468000" />
     </task>
     <task id="LOCAL-00001" summary="Clean up repository by renaming folders and adding additional files.">
       <created>1618116642897</created>
