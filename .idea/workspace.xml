@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fda823fc-ed56-4abe-b9d1-8b8c1c0f6116" name="Default Changelist" comment="Delete Tensorflow.py file.">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+    <list default="true" id="fda823fc-ed56-4abe-b9d1-8b8c1c0f6116" name="Default Changelist" comment="add training files to data-toolbox">
+      <change beforePath="$PROJECT_DIR$/.idea/data-tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-tools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ml-scikit-learn-intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/training/ml-scikit-learn-intro.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <workItem from="1616111439888" duration="1738000" />
       <workItem from="1618025997610" duration="41000" />
       <workItem from="1618115968973" duration="1820000" />
-      <workItem from="1618411039285" duration="468000" />
+      <workItem from="1618411039285" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="Clean up repository by renaming folders and adding additional files.">
       <created>1618116642897</created>
@@ -78,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618117768867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add training files to data-toolbox">
+      <created>1618411644581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618411644581</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Clean up repository by renaming folders and adding additional files." />
     <MESSAGE value="Delete Tensorflow.py file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete Tensorflow.py file." />
+    <MESSAGE value="add training files to data-toolbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="add training files to data-toolbox" />
   </component>
 </project>
