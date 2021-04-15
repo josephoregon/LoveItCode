@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fda823fc-ed56-4abe-b9d1-8b8c1c0f6116" name="Default Changelist" comment="add training files to data-toolbox">
-      <change beforePath="$PROJECT_DIR$/.idea/data-tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-tools.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/ml-scikit-learn-intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/training/ml-scikit-learn-intro.ipynb" afterDir="false" />
+    <list default="true" id="fda823fc-ed56-4abe-b9d1-8b8c1c0f6116" name="Default Changelist" comment="add labelImg application for image labeling">
+      <change afterPath="$PROJECT_DIR$/python/jupyter/tips_tricks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
       <list>
         <option value="Python Script" />
         <option value="package.json" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -65,6 +66,8 @@
       <workItem from="1618025997610" duration="41000" />
       <workItem from="1618115968973" duration="1820000" />
       <workItem from="1618411039285" duration="814000" />
+      <workItem from="1618452549938" duration="250000" />
+      <workItem from="1618458762521" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="Clean up repository by renaming folders and adding additional files.">
       <created>1618116642897</created>
@@ -87,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618411644581</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add ml-scikit-learn-intro.ipynb file and setting adjustments">
+      <created>1618452607465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618452607465</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add labelImg application for image labeling">
+      <created>1618452669252</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618452669252</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +126,8 @@
     <MESSAGE value="Clean up repository by renaming folders and adding additional files." />
     <MESSAGE value="Delete Tensorflow.py file." />
     <MESSAGE value="add training files to data-toolbox" />
-    <option name="LAST_COMMIT_MESSAGE" value="add training files to data-toolbox" />
+    <MESSAGE value="add ml-scikit-learn-intro.ipynb file and setting adjustments" />
+    <MESSAGE value="add labelImg application for image labeling" />
+    <option name="LAST_COMMIT_MESSAGE" value="add labelImg application for image labeling" />
   </component>
 </project>
