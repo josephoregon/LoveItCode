@@ -46,3 +46,15 @@ def write_image_to_s3(img_array, bucket, key, region_name='ap-southeast-1'):
     im = Image.fromarray(img_array)
     im.save(file_stream, format='jpeg')
     object.put(Body=file_stream.getvalue())
+    
+    
+# Send Files to S3 From Sagemaker 
+    
+import os
+import boto3
+
+your_bucket = 'Your-Bucket'
+
+boto3.Session().resource('s3').Bucket(your_bucket).Object(
+    os.path.join(your_bucket, 'new_file_name_to_export.csv')).upload_file(
+        'path_and_file_name_to_export\file.csv')
