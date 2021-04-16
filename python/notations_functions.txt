@@ -1,14 +1,7 @@
-"""
-DESCRIPTION:
-------------
-Write_brief_summary_of_what_the_function_will_do
+"""Load either a single or multiple csv files.
 
-PARAMETERS:
------------
-Parameter_1: Description_with_example_if_needed
-Parameter_2: Description_with_example_if_needed
+:param project_name: S3 Bucket Project Name
+:param folder_path: S3 Directory Folder Path
 
-RETURNS:
---------
-DataType: Describe_what_is_being_returned
+:returns DataType: Dataframe
 """
